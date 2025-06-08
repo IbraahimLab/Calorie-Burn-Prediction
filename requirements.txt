@@ -1,0 +1,10 @@
+flask
+numpy
+scikit-learn
+pandas
+requests
+ipykernel
+matplotlib
+seaborn
+xgboost
+gradio
